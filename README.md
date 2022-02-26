@@ -1,6 +1,6 @@
 ### Hi, I'm Robin 👋:computer:
 
-## Developer student at Linnaeus University in Växö
+## Developer student at Linnaeus University in Växjö
 
 ### Coding languages
 * Java
