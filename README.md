@@ -5,6 +5,8 @@
 ### Coding languages
 * Java
 * Python
+* MySql
+* Kotlin
 
 ### Finished courses
 * Basic mathematics for engineers
