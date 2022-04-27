@@ -7,9 +7,11 @@
 * Python
 * MySql
 * Kotlin
+* JavaFX
 
 ### Finished courses
 * Basic mathematics for engineers
 * Introduction to programming(Python)
 * Computer Security
 * Technical Communication
+* Object oriented programming(Java)
